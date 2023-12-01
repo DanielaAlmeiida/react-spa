@@ -10,9 +10,7 @@ export default function Banner() {
                     Olá!!
                 </h1>
                 <p className={styles.paragrafo}>
-                    Texto texto texto texto texto texto texto texto texto 
-                    texto texto texto texto texto texto texto texto texto 
-                    texto texto texto texto.
+                Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
                 </p>
             </div>
             <div className={styles.imagens}>
