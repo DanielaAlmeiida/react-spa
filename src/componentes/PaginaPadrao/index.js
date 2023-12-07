@@ -6,7 +6,7 @@ export default function PaginaPadrao() {
         <main>
             <Banner />
 
-            {<Outlet/> }
+            <Outlet/>
         </main>
     )
 }
